@@ -12,12 +12,6 @@ This setup is designed for **secure, scalable AWS account management**.
 
 ---
 
-## 📌 Architecture Diagram  
-![AWS Landing Zone Architecture](https://user-images.githubusercontent.com/example.png)  
-(*Replace with your actual diagram/image*)
-
----
-
 ## 🛠️ **Technologies Used**
 - **Terraform** (Infrastructure as Code)
 - **AWS Organizations** (Multi-Account Management)
