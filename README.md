@@ -79,7 +79,7 @@ aws sts assume-role --role-arn "arn:aws:iam::<ACCOUNT_ID>:role/OrganizationAccou
 ## 👨‍💻 Author
 👤 **RAGUL M**  
 📧 Email: ragullugar4@gmail.com  
-🌍 GitHub: [yourgithub](https://github.com/RAGULMUTHUKUMAR)
+🌍 GitHub: [RAGULMUTHUKUMAR](https://github.com/RAGULMUTHUKUMAR)
 
 ---
 
